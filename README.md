@@ -1,4 +1,6 @@
-#sqlite 
+*Sqlite*
+
+
 This Python script analyzes basic sales data stored in a small SQLite database (sales_data.db). It extracts the total quantity sold and total revenue for each product. The script utilizes the pandas library to process the data from the database and matplotlib to generate a simple bar chart visualizing the revenue per product. This provides a quick overview of product-level sales performance.
 
 Key Statistics (based on the sample data):
